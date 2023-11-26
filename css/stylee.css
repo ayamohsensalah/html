@@ -1,0 +1,22 @@
+.b{
+    color: black;
+    border-style: double;
+    border-color: rgb(21, 18, 18);
+    border-width: 10px;
+    background-color: beige;
+}
+.h{
+    font-size: 50px;
+    color: darkblue;
+}
+.h:hover{
+    color: darkmagenta;
+}
+.t:hover{
+    transform: scale(0.5,0.5);
+    transition: 3s transform;
+}
+.i{
+    background-color: beige;
+    display: block;
+}
